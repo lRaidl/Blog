@@ -1,7 +1,7 @@
 
 body{
     text-align: center;
-    color: blue;
+    color: rgb(255, 0, 0);
 }
 p {
 font-size: 25px;
@@ -34,7 +34,7 @@ font-size: 15px;
 
 #container{
     width: 60%;
-    border: 15px solid rgb(204, 207, 0);
+    border: 0px solid rgb(204, 207, 0);
     margin: auto;
     margin: 0 auto;
     

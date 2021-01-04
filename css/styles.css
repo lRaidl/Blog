@@ -25,11 +25,17 @@ font-size: 15px;
     margin-top: -50px;
     
 }
+#post{
+    border: 2px solid blue;
+    border-radius: 50px;
+}
+
 #cabecera{
     font-family: 'Hanalei Fill', cursive;
     color: rgb(196, 176, 4);
     margin: 15px auto;
     text-align: center;
+    
 }
 
 #container{

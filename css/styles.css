@@ -1,7 +1,7 @@
 
 body{
     text-align: center;
-    color: blue;
+    color: rgb(255, 0, 0);
 }
 p {
 font-size: 25px;
@@ -25,16 +25,19 @@ font-size: 15px;
     margin-top: -50px;
     
 }
+
+
 #cabecera{
     font-family: 'Hanalei Fill', cursive;
     color: rgb(196, 176, 4);
     margin: 15px auto;
     text-align: center;
+    
 }
 
 #container{
     width: 60%;
-    border: 1px solid #333;
+    border: 0px solid rgb(204, 207, 0);
     margin: auto;
     margin: 0 auto;
     
